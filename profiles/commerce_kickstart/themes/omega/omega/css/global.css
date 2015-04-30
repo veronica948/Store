@@ -1,0 +1,12 @@
+#block-block-4, #block-block-1 {
+	display: inline-block;
+	width: 200px;
+	color: red;
+}
+#block-views-shopping-cart-block {
+	display: inline-block;
+	float:right;
+}
+#block-block-1 {
+	margin-left: 20px;
+}

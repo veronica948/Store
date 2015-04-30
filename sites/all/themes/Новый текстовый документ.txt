@@ -1,0 +1,8 @@
+#block-block-4 {
+	display: inline-block;
+	width: 200px;
+}
+#block-views-shopping-cart-block {
+	display: inline-block;
+	float:right;
+}
